@@ -1,0 +1,6 @@
+{
+  "name": "Advik Awajare Bank",
+  "description": "Offline tractor work, implement (rotavator, cultivator, trolley), driver, diesel, time calculator, and farm logbook app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
